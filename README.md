@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethi-prak
 - 👀 I’m interested in Data Science / Software Development
-- 🌱 I’m currently learning R for Data Science 
+- 🌱 I’m currently learning C# Concurrent Collections in PluralSight
 - 📫 How to reach me - Preethi93@icloud.com
 
 <!---
