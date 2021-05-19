@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethi-prak
 - 👀 I’m interested in Data Science / Software Development
-- 🌱 I’m currently learning C# WCF Jumpstart in PluralSight
+- 🌱 I’m currently learning Object Oriented Programming in C# in PluralSight
 - 📫 How to reach me - Preethi93@icloud.com
 
 <!---
