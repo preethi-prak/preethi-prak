@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethi-prak
 - 👀 I’m interested in Data Science / Software Development
-- 🌱 I’m currently learning Linq fundamentals in Pluralsight
+- 🌱 I’m currently learning Entity Framework in Pluralsight
 - 📫 How to reach me - Preethi93@icloud.com
 
 <!---
