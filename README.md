@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethi-prak
-- 👀 I’m interested in Data Science / Software Development
-- 🌱 I’m currently learning Entity Framework in Pluralsight
+- 👀 I’m a Software Engineer turned Data Scientist
+- 🌱 I’m currently learning Django Framework 
 - 📫 How to reach me - Preethi93@icloud.com
 
 <!---
