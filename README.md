@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Preethi Prakash</h1>
 <h3 align="center">Data Scientist | Software Developer</h3>
 
 - 👋 Hi, I’m **Preethi Prakash**
@@ -12,6 +13,9 @@
 <a href="https://twitter.com/preetiprakash29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/preethi-prakash/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 </p>
+
+
+![Metrics](https://metrics.lecoq.io/preethi-prak?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
 
 
 
