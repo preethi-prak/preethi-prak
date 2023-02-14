@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Preethi Prakash</h1>
+<!--- <h1 align="center">Hi 👋, I'm Preethi Prakash</h1>
 <h3 align="center">Data Scientist | Software Developer</h3>
+--->
+
+
+<img src="/header.png" >
 
 - 👩🏻‍💻 I’m a Software Engineer turned Data Scientist
-- 💻 I’m currently learning Django Framework , Sentiment Analysis using VADER And Transformers
+- 💻 I’m currently learning Django Framework 
 - 📫 How to reach me **Preethi93@icloud.com**
 - 💬 My enthusiasm is in Machine Learning, NLP and Software Development
 - 📄 Know about my Job Experience [**Resume here**](https://docs.google.com/document/d/1Og5c8avBmV80ZpTYm7nTwIbOG9_jNU4f/edit?usp=sharing&ouid=104414999348931988164&rtpof=true&sd=true)
