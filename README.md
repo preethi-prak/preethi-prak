@@ -8,7 +8,7 @@
 - 👩🏻‍💻 I’m a Data Scientist @ Coefficient
 - 💻 I’m currently learning "Vector Databases"
 - 📫 How to reach me **Preethi93@icloud.com** or **preethi@coefficient.ai**
-- 💬 My enthusiasm is in Data Analysis , Machine Learning, NLP and Large Languaage Models
+- 💬 My enthusiasm is in Data Analysis , Machine Learning, NLP and Large Language Models
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
