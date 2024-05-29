@@ -6,7 +6,7 @@
 <img src="/header.png" >
 
 - 👩🏻‍💻 I’m a Data Scientist @ Coefficient
-- 💻 I’m currently learning "Vector Databases"
+- 💻 I’m currently learning "Django Web Application"
 - 📫 How to reach me **Preethi93@icloud.com** or **preethi@coefficient.ai**
 - 💬 My enthusiasm is in Data Analysis , Machine Learning, NLP and Large Language Models
 
